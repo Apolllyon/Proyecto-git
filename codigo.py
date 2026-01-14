@@ -1,3 +1,3 @@
-nombre = "Juan"
-saludo = f"hola {nombre} como estas, mañana cae la rata"
+nombre = "Roberto"
+saludo = f"hola {nombre} como estas, mañana cae la rata, mira tenes que trabajar en git"
 print(saludo)
